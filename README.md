@@ -5,15 +5,11 @@ I have an idea or solution to global pandemic “COVID-19 VIRUS”. We all know 
 
 Symptoms Check:-   
 
-1. Cough 
-2. Fever 
-3. Age 
-4. Body Pain 
-5. Runny Nose 
+1. Cough 2. Fever 3. Age 
+4. Body Pain 5. Runny Nose 
 6. Difficulty in Breathing 
 7. Visited Abroad within 90 days 
 
 If 4 and more than 4 symptoms match then it suggests to visit the doctor otherwise you are safe.
 
-Shashank Shekhar
-, you can contact on:- mbox.shashank@gmail.com
+Shashank Shekhar, you can contact on:- mbox.shashank@gmail.com
